@@ -1,0 +1,17 @@
+{
+  "name": "Love Cast - Real-Time Couple Watch Party",
+  "short_name": "Love Cast",
+  "description": "Zero latency synchronized cinema and watch party platform for couples.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090d",
+  "theme_color": "#14b8a6",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
